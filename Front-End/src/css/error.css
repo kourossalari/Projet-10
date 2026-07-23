@@ -1,0 +1,16 @@
+.errorDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+    margin-top: 30px;
+}
+
+.errorIcone {
+    font-size: 120px;
+    color: red;
+    margin: 0;
+}
+
+.errorDiv .returnHome {
+    color: black;
+}
